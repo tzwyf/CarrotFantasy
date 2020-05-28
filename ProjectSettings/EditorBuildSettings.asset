@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartLoadScene.unity
+    guid: e5b21c329f75aa541811e849f53b2343
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: e1b81188316414f4ea06de7a594f0659
+  - enabled: 1
+    path: Assets/Scenes/GameNormalOptionScene.unity
+    guid: 48daf00b9d5855e498155339de2e80d5
+  - enabled: 1
+    path: Assets/Scenes/NormalMordelScene.unity
+    guid: 0e9dd35b949aba64a864a8b9b8786d49
+  - enabled: 1
+    path: Assets/Scenes/GameBossOptionScene.unity
+    guid: 59e79c8367dd88a45a713798c08d78d5
+  - enabled: 1
+    path: Assets/Scenes/BossMordelScene.unity
+    guid: 52cb06e4f429bdd468a35af124b836fe
+  - enabled: 1
+    path: Assets/Scenes/MonsterNestScene.unity
+    guid: eb3e2cc7a12da5d45a43e4c316a44baf

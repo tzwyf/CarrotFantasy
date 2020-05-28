@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarrotFantasy", "CarrotFantasy.csproj", "{97D9B03C-CF11-56D2-DFF9-612013498D4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarrotFantasy.Editor", "CarrotFantasy.Editor.csproj", "{FFEABBFD-8E5A-FDC9-EB04-1EC488B1ED41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D9B03C-CF11-56D2-DFF9-612013498D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D9B03C-CF11-56D2-DFF9-612013498D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D9B03C-CF11-56D2-DFF9-612013498D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D9B03C-CF11-56D2-DFF9-612013498D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFEABBFD-8E5A-FDC9-EB04-1EC488B1ED41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEABBFD-8E5A-FDC9-EB04-1EC488B1ED41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEABBFD-8E5A-FDC9-EB04-1EC488B1ED41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEABBFD-8E5A-FDC9-EB04-1EC488B1ED41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
